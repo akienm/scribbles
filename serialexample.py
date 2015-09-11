@@ -3,6 +3,7 @@
 # experiment for building serial communication with arduino
 
 
+
 import serial
 
 fConnected = False
